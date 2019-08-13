@@ -1,6 +1,5 @@
 ﻿# LSTM_POET
 
-标签： Pytorch LSTM Python Deep-learning
 ------
 
 使用两层的LSTM网络实现了基于字的中文神经网络写诗模型，支持自动生成唐诗宋词或自动生成藏头诗功能。
